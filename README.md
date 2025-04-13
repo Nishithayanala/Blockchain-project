@@ -1,2 +1,5 @@
 # Electronic health record (EHR) system using Blockchain:
  This project consists of three main Python files that together implement a simple blockchain-based electronic health record (EHR) system. The "app.py" file serves as the main entry point, providing a user-friendly menu to add health records, view the blockchain, validate its integrity, and search for a patient’s record by ID. The "blockchain.py" file defines the structure and logic of the blockchain, including the Block class that stores individual health records and the Blockchain class that handles block creation, chain validation, and patient record retrieval. Finally, "record.py" defines the HealthRecord class, which holds patient-specific data like ID, name, age, diagnosis, and treatment. This modular design keeps the code organized and easy to extend or modify.
+ 
+# If you are done with the implementation of code then follow this steps for execution:
+# Open Command Prompt and open the project where you have saved and then RUN this command in the prompt:python app.py
